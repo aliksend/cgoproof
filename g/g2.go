@@ -1,7 +1,7 @@
 package g
 
 /*
-#include "./c-api/greet.h"
+#include "./greet.h"
 */
 import "C"
 

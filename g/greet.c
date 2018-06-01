@@ -1,5 +1,4 @@
-#ifndef GREETER
-#define GREETER
+#include "./greet.h"
 
 char *greet1() {
   return "grrrrr one";
@@ -8,5 +7,3 @@ char *greet1() {
 char *greet2() {
   return "rrrrrg two";
 }
-
-#endif
